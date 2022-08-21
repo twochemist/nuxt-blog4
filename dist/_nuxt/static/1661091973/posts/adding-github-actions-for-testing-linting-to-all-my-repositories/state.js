@@ -1,0 +1,1 @@
+window.__NUXT__={staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1661091973",layout:"default",error:null,serverRendered:true,routePath:"\u002Fposts\u002Fadding-github-actions-for-testing-linting-to-all-my-repositories",config:{content:{dbHash:"8cdd3be8"}}};
